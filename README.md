@@ -8,7 +8,10 @@
 
 **Tasks completed:**
 1. Task 1: Data Integration
-   - Integrate the 7 input files into one dataset with a specified schema mentioned in the assignment specifications.
-   - File types: .txt, .xlsx, json, xml, html and pdf 
+   - Integrated the 7 input files into one dataset with a specified schema mentioned in the assignment specifications.
+   - File types: .txt, .xlsx, json, xml, html and pdf
+  
+2. Task 2: Data Shaping
+   - Studied the effects of different normalization/transformation methods (i.e. standardization, min-max normalization, log, power, box-cox transformation) 
 
 **Libraries used:**
