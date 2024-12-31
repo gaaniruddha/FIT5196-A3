@@ -12,6 +12,7 @@
    - File types: .txt, .xlsx, json, xml, html and pdf
   
 2. Task 2: Data Shaping
-   - Studied the effects of different normalization/transformation methods (i.e. standardization, min-max normalization, log, power, box-cox transformation) 
+   - Studied the effects of different normalization/transformation methods (i.e. standardization, min-max normalization, log, power, box-cox transformation) on various attributes.
+   - Observe and explain their effect. 
 
-**Libraries used:**
+**Libraries used:** pandas, numpy, re, json, bs4, tabula, scipy, matplotlib, sklearn, sklearn.model_selection, sklearn.metrics, sklearn.linear_model
